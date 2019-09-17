@@ -1,0 +1,144 @@
+/* Grid colorful color */
+.header-color{
+  background: #f12711;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.landing-grid{
+  background: #f12711;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+/* Avatar settings */
+.avatar-img{
+  height: 250px;
+  padding: 5em;
+}
+
+/* Front end developer banner */
+.banner-text{
+  background-color: black;
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+/* Front end developer banner text */
+.banner-text h1{
+  font-size: 66px;
+  font-weight: bold;
+  color: white;
+}
+
+/* Banner underline is dotted */
+.banner-text hr{
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p{
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+}
+
+/* Social media icon position */
+.social-links{
+  display: flex;
+  justify-content: space-between;
+  width: 25%;
+  margin: auto;
+}
+
+/* Social media icon size and color */
+.social-links i{
+  color: white;
+  font-size: 5em;
+  padding: 8px;
+
+}
+
+/* Projects.js styling */
+.project-grid{
+  display: flex;
+}
+
+/* Styling of page for contact.js */
+.contact-body{
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+/* Styling of the left-half & right-half */
+.contact-grid{
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+/* Styling the words in the left half */
+.contact-grid h2{
+  font-family: 'Anton', sans-serif;
+}
+
+/* Styling the words in the left half */
+.contact-grid p{
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+}
+
+/* Styling the dotted line on the right half */
+.contact-grid hr{
+  border-top: 5px dotted black;
+  width: 50%;
+  margin: auto;
+}
+
+.contact-list i{
+  font-size: 66px;
+  padding-right: 5rem;
+}
+
+/* Resume styling for right side */
+.resume-right-col{
+  background: #27221F;
+  color: white;
+  padding: 2em;
+}
+
+/* Resume styling for left side for the bullet list */
+.resume-left-col p li{
+  padding: .5em;
+  font-size: 15px;
+}
+
+.resume-left-col p{
+  font-size: 20px;
+}
+
+.bullet-styling p{
+  list-style-position: outside;
+}
+
+
+.pic-body{
+  display: flex;
+}
