@@ -57,7 +57,7 @@ class Contact extends Component {
                                 {/* Skype part */}
                                 <ListItem>
                                     <ListItemContent style={{ fontSize: '25px', fontFamily: 'Antom' }}>
-                                        <i className="fa fa-skype" aria-hidden="true" />
+                                        <i className="fab fa-skype" aria-hidden="true" />
                                         shileong
                                     </ListItemContent>
                                 </ListItem>

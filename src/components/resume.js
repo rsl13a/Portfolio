@@ -77,14 +77,16 @@ class Resume extends Component {
                         <h4 style={{ color: 'grey' }}>
                             Website
                         </h4>
-                        <i className="fa fa-github-square" aria-hidden="true" style={{ color: "black", fontSize: '20px' }}> <a href="https://github.com/rsl13a" target="_blank">rsl13a</a></i>
+                        <i className="fab fa-github-square" aria-hidden="true" style={{ color: "black", fontSize: '20px' }}> <a href="https://github.com/rsl13a" target="_blank">rsl13a</a></i>
+                        <br></br>
+                        <i className="fas fa-portrait" aria-hidden="true" style={{ color: "black", fontSize: '20px' }}> <a href="https://dom-portfolio.netlify.com" target="_blank">portfolio</a></i>
 
                         <h4 style={{ color: 'grey' }}>
                             Social Media
                         </h4>
-                        <i className="fa fa-facebook-square" aria-hidden="true" style={{ color: "black", fontSize: '20px' }}> <a href="https://www.facebook.com/dominic.renshi" target="_blank">Dominic Leong Ren Shi</a></i>
+                        <i className="fab fa-facebook" aria-hidden="true" style={{ color: "black", fontSize: '20px' }}> <a href="https://www.facebook.com/dominic.renshi" target="_blank">Dominic Leong Ren Shi</a></i>
                         <br></br>
-                        <i className="fa fab fa-instagram" aria-hidden="true" style={{ color: "black", fontSize: '20px' }}> <a href="https://www.instagram.com/dominiclrs91/?hl=en" target="_blank">dominiclrs91</a></i>
+                        <i className="fab fa-instagram" aria-hidden="true" style={{ color: "black", fontSize: '20px' }}> <a href="https://www.instagram.com/dominiclrs91/?hl=en" target="_blank">dominiclrs91</a></i>
 
                         <hr style={{ borderTop: '3px solid #833fb2', width: '90%' }} />
                     </Cell>

@@ -32,12 +32,17 @@ class Landing extends Component {
 
                                 {/* Links and open it on new tab (_blank) - Linkedin*/}
                                 <a href="https://www.linkedin.com/in/ren-shi-leong-b18a8791/" rel="noopener noreferrer" target="_blank">
-                                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                                    <i className="fab fa-linkedin" aria-hidden="true" />
                                 </a>
 
                                 {/* Links and open it on new tab (_blank) - Github*/}
                                 <a href="https://github.com/rsl13a" rel="noopener noreferrer" target="_blank">
-                                    <i className="fa fa-github-square" aria-hidden="true" />
+                                    <i className="fab fa-github-square" aria-hidden="true" />
+                                </a>
+
+                                {/* Links and open it on new tab (_blank) - Github*/}
+                                <a href="https://dom-portfolio.netlify.com" rel="noopener noreferrer" target="_blank">
+                                    <i class="fas fa-portrait" aria-hidden="true" />
                                 </a>
                             </div>
                         </div>
